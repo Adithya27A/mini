@@ -1,0 +1,9 @@
+<html>
+<body>
+<bg color:red>
+<head>
+<h1>Computer Science</h1>
+</head>
+<title>I am student</tilte>
+</body>
+</html>
